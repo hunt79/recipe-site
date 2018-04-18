@@ -1,1 +1,112 @@
-hello there
+body {background-color:  #ff8123;}
+
+li {color: #00f900;}
+
+ul.main-nav {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+ul.main-nav li{
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 20px;
+	font-family:Phosphate, sans-serif;
+	text-transform: uppercase;
+	font-size: 50px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	background-color:black;
+}
+
+
+h1 {text-align: center;
+	font-family: Oswald, sans-serif
+
+
+}
+.LutherBurger { width: 100%;
+	text-align: center;
+
+}
+.Vandross {
+			padding-bottom: 20px;
+			
+}
+.container {margin:;
+			}
+
+.cheese {padding-left: 80px;
+		 padding-bottom: 40px;
+		 color: #00f900;
+		 font-size: 30px;
+		 list-style-type: none;
+		 background-color: black;}
+
+.donuts {padding-left: 80px;
+		 padding-bottom: 60px;
+		 color: #00f900;
+		 font-size: 30px;
+		 list-style-type: none;
+		 background-color: black;}
+
+.meat {padding-left: 100px;
+ 		color: #00f900;
+		 font-size: 30px;
+		 padding-bottom: 20px;
+		 list-style-type: none;
+		 background-color: black;}
+
+.bacon {padding-left: 100px; 
+		color: #00f900;
+		 font-size: 30px;
+		 list-style-type: none;
+		 background-color: black;
+		 padding-bottom: 27px;
+		}
+
+.p1 {color: #00f900;
+	 padding-left: 100px;
+	 padding-top: 50px;
+	 background-color: black;
+	 display: inline-block;
+	 list-style-type: none;
+	}	
+.p2 
+	{color: #00f900;
+	 padding-left: 600px;
+	 background-color: black;
+	 display: inline-block;
+	list-style-type: none;}
+
+.p3 {color: #00f900;
+	 padding-left: 100px;
+	 background-color: black;
+	display: inline-block;
+	list-style-type: none;}
+
+.ing {color: #00f900;
+		font-size: 60px;}
+.reee {color: #00f900;
+		font-size: 20px;}
+
+.Steps {padding-left: 400px;
+		padding-bottom: 50px;
+		color: #00f900;
+		 font-size: 20px;
+		 list-style-type: none;
+	display: inline-block;
+	margin-right: 20px;
+	font-family:Oswald, sans-serif;
+	letter-spacing: 1px;
+	margin-left: 20px;
+
+	background-color:black;;
+		}
+.pets {color: #00f900;
+		padding-left: 500px;
+		text-align: center; }
+.ee {padding-left: 1000px;}
+
+
+.wee {font-family: Karma, sans-serif;}
